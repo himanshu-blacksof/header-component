@@ -1,0 +1,13 @@
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  row-gap: 10px;
+}
+.b {
+  border: 2px solid red;
+}
+
+header nav li a {
+  color: red;
+}
